@@ -1,5 +1,5 @@
 @EdwardBerman
-I’m interested in scientific computing such as quantum computing and sage. Reach me at berman.ed@northeastern.edu
+Some interests include Gravitational Lensing, Computational Physics, Optimization, Machine Learning, Probability and Statistics, and misc. Data Science problems. Reach me at berman.ed@northeastern.edu
 
 <!---
 EdwardBerman/EdwardBerman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
