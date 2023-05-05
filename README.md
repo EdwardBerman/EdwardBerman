@@ -4,6 +4,7 @@
 + Double Major in Mathematics and Applied Physics
 
 ## On Going Research Projects
+### Problems pertaining to 
 + Weak Gravitational Lensing
 + Chemical Reaction Networks
 
