@@ -1,6 +1,5 @@
 # @EdwardBerman
-Undergraduate Researcher
-Currently Working On
+Undergraduate Researcher at Northeastern University Currently Working On
 + Weak Gravitational Lensing
 + Chemical Reaction Networks
 
@@ -13,3 +12,8 @@ Reach me at berman.ed@northeastern.edu
 ```
 Some Code Snippets and Images coming soon!
 ```
+Student of Professor McCleary. Double Major in Mathematics and Applied Physics. Publication List Coming Soon.
+Awards
++ Physics Research Co-op Fellowship
++ PEAK Ascent Award
++ Dean's Scholarship
