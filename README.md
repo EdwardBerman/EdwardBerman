@@ -17,7 +17,7 @@
 + Dean's Scholarship
 
 ## Teaching
-+ Course Assistant: Math 2331, Linear Algebra
++ Fall 2022: Course Assistant: Math 2331, Linear Algebra
 
 ## Contact Me
 Reach me at berman.ed@northeastern.edu
