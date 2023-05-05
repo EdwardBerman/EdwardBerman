@@ -11,10 +11,11 @@
 +  Point Spread Function Modeling with Shopt.jl
 +   Using Reaction Vectors to explore the relationship between reaction networks and monotone networks
 
-## Awards
+## Awards and Funding
 + Physics Research Co-op Fellowship
 + PEAK Ascent Award
 + Dean's Scholarship
++ Northeastern Research and Training Grant 
 
 ## Teaching
 + Fall 2022: Course Assistant: Math 2331, Linear Algebra
