@@ -13,6 +13,7 @@ Reach me at berman.ed@northeastern.edu
 Some Code Snippets and Images coming soon!
 ```
 Student of Professor McCleary. Double Major in Mathematics and Applied Physics. Publication List Coming Soon.
+
 Awards
 + Physics Research Co-op Fellowship
 + PEAK Ascent Award
