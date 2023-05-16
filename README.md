@@ -6,7 +6,7 @@
 ## On Going Research Projects
 ### Problems pertaining to 
 + Weak Gravitational Lensing
-+ Chemical Reaction Networks
++ Data Driven Model Discovery
 
 ### More Specifically
 +  Point Spread Function Modeling with Shopt.jl
