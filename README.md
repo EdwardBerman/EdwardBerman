@@ -32,9 +32,6 @@
 
 ## Contact Me
 Reach me at berman.ed@northeastern.edu
-
-```
-Some Code Snippets and Images coming soon!
-```
+<a href="[http://www.linkedin.com/in/henry-barthelemy](https://www.linkedin.com/in/edward-berman-324a86226/)"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 
 
