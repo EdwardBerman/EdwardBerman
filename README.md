@@ -21,6 +21,15 @@
 ## Teaching
 + Fall 2022: Course Assistant: Math 2331, Linear Algebra
 
+## Coursework
+* Denotes Graduate Course
+| Mathematics| Physics |
+|------------|---------|
+|  Riemannian Optimization * | Thermodynamics and Statistical Mechanics |
+| Advanced Linear Algebra | Mathematical and Computational Methods for Physics |
+| Advanced Probability and Statisitcs | Electricity and Magnetism 1 |
+| Fourier Series and PDEs | Modern Physics |
+
 ## Contact Me
 Reach me at berman.ed@northeastern.edu
 
