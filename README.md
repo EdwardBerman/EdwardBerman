@@ -1,4 +1,8 @@
 # @EdwardBerman
+
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdwardBerman&show_icons=true&theme=tokyonight" style="height:179px;"/></a>
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardBerman&layout=compact&theme=radical&langs_count=6" style="height:179px;"/></a>
+
 ## About Me
 + Undergraduate Researcher at Northeastern University, McCleary's Group
 + Double Major in Mathematics and Applied Physics
