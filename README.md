@@ -2,7 +2,7 @@
 
 | [About Me](#about-me) | [On Going Research Projects](#on-going-research-projects) | [Awards and Funding](#awards-and-funding) | [Teaching](#teaching) | [Coursework](#coursework) | [Contact Me](#contact-me)  | [Github Stats](#stats) |
 |-----------------------|-----------------------------------------------------------|-------------------------------------------|-----------------------|---------------------------|----------------------------|------------------------|
-| | | | | | | | |
+| | | | | | | | 
 
 ## About Me
 + Undergraduate Researcher at Northeastern University, McCleary's Group
