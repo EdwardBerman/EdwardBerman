@@ -1,5 +1,8 @@
 # @EdwardBerman
 
+| [About Me](#about-me) | [On Going Research Projects](#on-going-research-projects) | [Awards and Funding](#awards-and-funding) | [Teaching](#teaching) | [Coursework](#coursework) | [Contact Me](#contact-me)  | [Github States](#stats) |
+|-----------------------|-----------------------------------------------------------|-------------------------------------------|-----------------------|---------------------------|----------------------------|-------------------------|
+
 ## About Me
 + Undergraduate Researcher at Northeastern University, McCleary's Group
 + Double Major in Mathematics and Applied Physics
@@ -28,7 +31,7 @@
 
 | Mathematics                           | Physics                                            |
 |---------------------------------------|----------------------------------------------------|
-| Riemannian Optimization \*            | Thermodynamics and Statistical Mechanics           |
+| \* Riemannian Optimization            | Thermodynamics and Statistical Mechanics           |
 | Advanced Linear Algebra               | Mathematical and Computational Methods for Physics |
 | Advanced Probability and Statistics   | Electricity and Magnetism 1                        |
 | Fourier Series and PDEs               | Modern Physics                                     |
