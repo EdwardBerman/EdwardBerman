@@ -14,8 +14,8 @@
 + Data Driven Model Discovery
 
 ### More Specifically
-+  Point Spread Function Modeling with Shopt.jl
-+   Using Reaction Vectors to explore the relationship between reaction networks and monotone networks
++  Point Spread Function Modeling with ShOpt.jl
++  Trustworthy and Scalable Empirical Point Spread Function Characterization Across the Field of View  
 
 ## Awards and Funding
 + Physics Research Co-op Fellowship
