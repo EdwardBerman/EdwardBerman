@@ -56,6 +56,11 @@ Reach me at berman.ed@northeastern.edu
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)](https://github.com/pytorch/pytorch)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)](https://github.com/tensorflow/tensorflow)
 [![Astropy](https://img.shields.io/badge/Astropy-black?style=for-the-badge&logo=python)](https://github.com/astropy/astropy)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/EdwardBerman)
+[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)](https://github.com/torvalds/linux)
+[![Manopt](https://img.shields.io/badge/Manopt-black?style=for-the-badge&logo=python)](https://github.com/NicolasBoumal/manopt)
+[![LaTeX](https://img.shields.io/badge/LaTeX-black?style=for-the-badge&logo=latex)](https://www.latex-project.org/)
+
 
 
 
