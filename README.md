@@ -48,3 +48,7 @@ Reach me at berman.ed@northeastern.edu
 
 <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardBerman&layout=compact&theme=radical&langs_count=6" style="height:179px;"/></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdwardBerman&theme=highcontrast)](https://git.io/streak-stats)
+
+### Skills
+[![Julia](https://img.shields.io/badge/julia-black?style=for-the-badge&logo=julia)](https://github.com/EdwardBerman)
+
