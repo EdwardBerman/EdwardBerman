@@ -52,5 +52,10 @@ Reach me at berman.ed@northeastern.edu
 ### Skills
 [![Julia](https://img.shields.io/badge/julia-black?style=for-the-badge&logo=julia)](https://github.com/EdwardBerman)
 [![Flux.jl](https://img.shields.io/badge/Flux.jl-black?style=for-the-badge&logo=julia)](https://github.com/FluxML/Flux.jl)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/EdwardBerman)
+[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)](https://github.com/pytorch/pytorch)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)](https://github.com/tensorflow/tensorflow)
+[![Astropy](https://img.shields.io/badge/Astropy-black?style=for-the-badge&logo=python)](https://github.com/astropy/astropy)
+
 
 
