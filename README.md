@@ -51,8 +51,6 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/EdwardBerman)
 [![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r)](https://github.com/EdwardBerman)
 [![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
-[![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=openjdk)](https://github.com/EdwardBerman)
-
 
 
 ## Contact Me
