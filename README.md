@@ -48,6 +48,10 @@
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)](https://github.com/torvalds/linux)
 [![Manopt](https://img.shields.io/badge/Manopt-black?style=for-the-badge&logo=python)](https://github.com/NicolasBoumal/manopt)
 [![LaTeX](https://img.shields.io/badge/LaTeX-black?style=for-the-badge&logo=latex)](https://www.latex-project.org/)
+[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)](https://github.com/EdwardBerman)
+[![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r)](https://github.com/EdwardBerman)
+[![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
+
 
 ## Contact Me
 Reach me at berman.ed@northeastern.edu
