@@ -51,4 +51,6 @@ Reach me at berman.ed@northeastern.edu
 
 ### Skills
 [![Julia](https://img.shields.io/badge/julia-black?style=for-the-badge&logo=julia)](https://github.com/EdwardBerman)
+[![Flux.jl](https://img.shields.io/badge/Flux.jl-black?style=for-the-badge&logo=julia)](https://github.com/FluxML/Flux.jl)
+
 
