@@ -37,19 +37,7 @@
 | Advanced Probability and Statistics   | Electricity and Magnetism 1                        |
 | Fourier Series and PDEs               | Modern Physics                                     |
 
-
-## Contact Me
-Reach me at berman.ed@northeastern.edu
-
-<a href="https://www.linkedin.com/in/edward-berman-324a86226/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
-
-## Stats
-
-
-<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardBerman&layout=compact&theme=radical&langs_count=6" style="height:179px;"/></a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdwardBerman&theme=highcontrast)](https://git.io/streak-stats)
-
-### Skills
+## Skills
 [![Julia](https://img.shields.io/badge/julia-black?style=for-the-badge&logo=julia)](https://github.com/EdwardBerman)
 [![Flux.jl](https://img.shields.io/badge/Flux.jl-black?style=for-the-badge&logo=julia)](https://github.com/FluxML/Flux.jl)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/EdwardBerman)
@@ -61,6 +49,16 @@ Reach me at berman.ed@northeastern.edu
 [![Manopt](https://img.shields.io/badge/Manopt-black?style=for-the-badge&logo=python)](https://github.com/NicolasBoumal/manopt)
 [![LaTeX](https://img.shields.io/badge/LaTeX-black?style=for-the-badge&logo=latex)](https://www.latex-project.org/)
 
+## Contact Me
+Reach me at berman.ed@northeastern.edu
+
+<a href="https://www.linkedin.com/in/edward-berman-324a86226/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+
+## Stats
+
+
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardBerman&layout=compact&theme=radical&langs_count=6" style="height:179px;"/></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdwardBerman&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
