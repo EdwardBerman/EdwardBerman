@@ -18,10 +18,10 @@
 +  Trustworthy and Scalable Empirical Point Spread Function Characterization Across the Field of View  
 
 ## Awards and Funding
-+ Physics Research Co-op Fellowship | Northeastern Physics Department
-+ PEAK Ascent Award | Northeastern Undergraduate Research and Fellowships
-+ Dean's Scholarship | Northeastern University
-+ Northeastern Research and Training Grant | National Science Foundation
++ Physics Research Co-op Fellowship 
++ PEAK Ascent Award 
++ Dean's Scholarship 
++ Northeastern Research and Training Grant 
 
 ## Teaching
 + Fall 2022: Course Assistant: Math 2331, Linear Algebra
