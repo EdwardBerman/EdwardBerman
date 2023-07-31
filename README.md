@@ -8,6 +8,7 @@
 + Undergraduate Researcher at Northeastern University, McCleary's Group
 + Double Major in Mathematics and Applied Physics
 + Music Technology Minor
++ Julia Programmer
 
 ## On Going Research Projects
 ### Problems pertaining to 
