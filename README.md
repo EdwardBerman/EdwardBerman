@@ -68,3 +68,4 @@ Reach me at berman.ed@northeastern.edu
 
 
 [Open my PDF](rascal-AEGIR.pdf)
+[Open my PDF](REU.pdf)
