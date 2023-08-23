@@ -67,4 +67,4 @@ Reach me at berman.ed@northeastern.edu
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdwardBerman&theme=highcontrast)](https://git.io/streak-stats)
 
 
-
+[Open my PDF](rascal-AEGIR.pdf)
