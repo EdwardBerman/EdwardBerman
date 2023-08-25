@@ -1,14 +1,18 @@
 # @EdwardBerman
 
-| [About Me](#about-me) | [On Going Research Projects](#on-going-research-projects) | [Awards and Funding](#awards-and-funding) | [Teaching](#teaching) | [Coursework](#coursework) |[Skills](#skills) | [Contact Me](#contact-me)  | [Github Stats](#stats) |
-|-----------------------|-----------------------------------------------------------|---------------------------------|----------|-----------------------|---------------------------|----------------------------|------------------------|
-|👨‍💻 |🔭 |🏆 |👨‍🏫 |🏫 |🕹 |💌 |📊 | 
+| [About Me](#about-me) | [Publications and Scholarly Works](#publications-and-scholarly-works) | [On Going Research Projects](#on-going-research-projects) | [Awards and Funding](#awards-and-funding) | [Teaching](#teaching) | [Coursework](#coursework) | [Skills](#skills) | [Contact Me](#contact-me) | [Github Stats](#stats) |
+|-----------------------|--------------------------------------------|-----------------------------------------------------------|---------------------------------|----------|-----------------------|---------------------------|----------------------------|------------------------|
+|👨<200d>💻 | | 🔭 |🏆 |👨<200d>🏫 |🏫 |🕹 |💌 |📊 |
 
 ## About Me
 + Undergraduate Researcher at Northeastern University, McCleary's Group
 + Double Major in Mathematics and Applied Physics
 + Music Technology Minor
-+ Julia Programmer
+
+## Publications and Scholarly Works 
++ [AEGIR](rascal-AEGIR.pdf)
++ [Chemical Reaction Networks and Monotone Dynamical Systems](REU.pdf)
++ [Machine Learning Model Discovery](mlpde.pdf)
 
 ## On Going Research Projects
 ### Problems pertaining to 
@@ -66,9 +70,3 @@ Reach me at berman.ed@northeastern.edu
 <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardBerman&layout=compact&theme=radical&langs_count=6" style="height:179px;"/></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdwardBerman&theme=highcontrast)](https://git.io/streak-stats)
 
-
-Some Works:
-
-+ [AEGIR](rascal-AEGIR.pdf)
-+ [Chemical Reaction Networks and Monotone Dynamical Systems](REU.pdf)
-+ [Machine Learning Model Discovery](mlpde.pdf)
