@@ -2,7 +2,7 @@
 
 | [About Me](#about-me) | [Publications and Scholarly Works](#publications-and-scholarly-works) | [On Going Research Projects](#on-going-research-projects) | [Awards and Funding](#awards-and-funding) | [Teaching](#teaching) | [Coursework](#coursework) | [Skills](#skills) | [Contact Me](#contact-me) | [Github Stats](#stats) |
 |-----------------------|--------------------------------------------|-----------------------------------------------------------|---------------------------------|----------|-----------------------|---------------------------|----------------------------|------------------------|
-|👨<200d>💻 | | 🔭 |🏆 |👨<200d>🏫 |🏫 |🕹 |💌 |📊 |
+|👨💻 | | 🔭 |🏆 |👨 |🏫 |🕹 |💌 |📊 |
 
 ## About Me
 + Undergraduate Researcher at Northeastern University, McCleary's Group
