@@ -6,8 +6,8 @@
 
 ## About Me
 + Undergraduate Researcher at Northeastern University, McCleary's Group
-+ Double Major in Mathematics and Applied Physics
-+ Music Technology Minor
++ Lensing Working Group at COSMOS-Web: The JWST Cosmic Origins Survey
++ Double Major in Mathematics and Applied Physics, Music Technology Minor
 
 ## Publications and Scholarly Works 
 + [AEGIR](rascal-AEGIR.pdf)
