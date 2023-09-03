@@ -1,7 +1,13 @@
 ---
 ---
 
-
+@import "{{ site.theme }}";
+.page-header {
+  background-image: url('https://eileenrmartin.github.io/img/waterfall.jpg');
+  background-size: cover cover;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
 .btn {
   color: rgba(211,211,211,0.99);
   border-color: rgba(211,211,211,0.99);
