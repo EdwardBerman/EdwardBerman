@@ -10,6 +10,11 @@
 + Double Major in Mathematics and Applied Physics, Music Technology Minor
 
 ## Publications and Scholarly Works 
+
+### Publications
+In Preparation: Berman et al. ShOpt.jl | A Julia Library for Empirical Point Spread Function Characterization of JWST NIRCam Data
+
+### Scholarly Works
 + [AEGIR](rascal-AEGIR.pdf)
 + [Chemical Reaction Networks and Monotone Dynamical Systems](REU.pdf)
 + [Machine Learning Model Discovery](mlpde.pdf)
