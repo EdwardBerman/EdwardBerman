@@ -12,7 +12,7 @@
 ## Publications and Scholarly Works 
 
 ### Publications
-In Preparation: Berman et al. ShOpt.jl | A Julia Library for Empirical Point Spread Function Characterization of JWST NIRCam Data
+In Preparation: Berman et al. ShOpt.jl | A Julia Package for Empirical Point Spread Function Characterization of JWST NIRCam Data
 
 ### Scholarly Works
 + [AEGIR](rascal-AEGIR.pdf)
