@@ -13,9 +13,12 @@
 
 ### Publications
 In Preparation
-+ Berman et al. ShOpt.jl | A Julia Package for Empirical Point Spread Function Characterization of JWST NIRCam Data
++ Berman et al. ShOpt.jl $$\mid$$ A Julia Package for Empirical Point Spread Function Characterization of JWST NIRCam Data
 
-### Scholarly Works
+# Blog
++ Reflecting on my first paper [Blog #1](blog/blog_1.pdf)
+
+### Other Scholarly Works
 + [AEGIR](rascal-AEGIR.pdf)
 + [Chemical Reaction Networks and Monotone Dynamical Systems](REU.pdf)
 + [Machine Learning Model Discovery](mlpde.pdf)
