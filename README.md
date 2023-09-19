@@ -9,7 +9,7 @@
 |👨‍🏫                           | 🏫                                 |
 | [Skills](#skills)                  | [Contact Me](#contact-me)            |
 |🕹                                 | 💌                                 |
-| [Github Stats](#stats)              |
+| [Github Stats](#stats)              | [Blog](./blog){: .button-link }
 |📊                                 |
 
 
