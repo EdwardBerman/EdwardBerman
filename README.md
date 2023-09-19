@@ -1,7 +1,8 @@
 # @EdwardBerman
 
-| [About Me](#about-me)               | [Publications and Scholarly Works](#publications-and-scholarly-works)  |
+| Julia Enthusiast, Astrophysicist,               | and bad table maker  |
 |------------------------------------|------------------------------------|
+| [About Me](#about-me)               | [Publications and Scholarly Works](#publications-and-scholarly-works)  |
 |👨‍💻                            | 📘                                 |
 | [On Going Research Projects](#on-going-research-projects)  | [Awards and Funding](#awards-and-funding)  |
 |🔭                                                          | 🏆                                       |
