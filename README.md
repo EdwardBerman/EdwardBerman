@@ -6,7 +6,7 @@
 | [On Going Research Projects](#on-going-research-projects)  | [Awards and Funding](#awards-and-funding)  |
 |🔭                                                          | 🏆                                       |
 | [Teaching](#teaching)               | [Coursework](#coursework)            |
-|👨<200d>🏫                           | 🏫                                 |
+|👨‍🏫                           | 🏫                                 |
 | [Skills](#skills)                  | [Contact Me](#contact-me)            |
 |🕹                                 | 💌                                 |
 | [Github Stats](#stats)              |
