@@ -1,6 +1,6 @@
 # @EdwardBerman
 
-| Julia Enthusiast, Astrophysicist,               | and bad table maker  |
+|   Open Source Enthusiast             | B+ table maker  |
 |------------------------------------|------------------------------------|
 | [About Me](#about-me)               | [Publications and Scholarly Works](#publications-and-scholarly-works)  |
 |👨‍💻                            | 📘                                 |
