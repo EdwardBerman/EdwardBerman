@@ -11,7 +11,7 @@
 | [Skills](#skills)                  | [Contact Me](#contact-me)            |
 |🕹                                 | 💌                                 |
 | [Github Stats](#stats)              | [Blog](./blog.md){: .button-link }
-|📊                                 |
+|📊                                 | ✏️
 
 
 ## About Me
