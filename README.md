@@ -2,7 +2,7 @@
 
 |   Open Source Enthusiast             | B+ table maker  |
 |------------------------------------|------------------------------------|
-| [About Me](./aboutme.md){: .button-link }      | [Publications and Scholarly Works](#publications-and-scholarly-works)  |
+| [About Me](#about-me)      | [Publications and Scholarly Works](#publications-and-scholarly-works)  |
 |👨‍💻                            | 📘                                 |
 | [On Going Research Projects](#on-going-research-projects)  | [Awards and Funding](#awards-and-funding)  |
 |🔭                                                          | 🏆                                       |
