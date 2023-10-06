@@ -1,4 +1,4 @@
-[blog 1](./blog/blog_1.md)
+[blog #1 | Reflecting on my first paper](./blog/blog_1.md)
 # Under Construction !
 
 |   Open Source Enthusiast             | B+ table maker  |    
