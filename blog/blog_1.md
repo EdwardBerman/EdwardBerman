@@ -24,6 +24,10 @@ Don't throwaway deprecated code! Keep a research journal. Do it. Just do it !!!
 
 ## What went wrong
 
-I still haven't reached my goal, but I don't think I ever will. At least, PSFex has had a 25 year headstart, so I have a ways to go to be able to beat in both **Accuracy** and **Speed**.
+I still haven't reached my goal of accuracy compared to PSFex. PSFex has had a 25 year headstart, so I have a ways to go to be able to beat it. I haven't been able to beat it yet, but I am optimistic!
+
+**Writing**
+
+I should have been more terse and proactive in not letting the scope of the JOSS paper get out of fan, having to do major surgery on it is something that I should have been able to prevent.
 
 

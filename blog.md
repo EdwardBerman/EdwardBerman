@@ -1,4 +1,4 @@
-[Go back to Home](./)
+[blog 1](./blog/blog_1.md)
 # Under Construction !
 
 |   Open Source Enthusiast             | B+ table maker  |    
