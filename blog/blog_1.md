@@ -2,7 +2,7 @@
 
 ## What went right!
 
-**Advisor: Professor Jacqueline McCleary** 
+**Advisor** 
 
 As someone who came into this project without any publications, my advisor was extremely important throughout this project. One thing I really appreciated was her philosophy of **Give Credit, Share Blame**. That is, when I made a mistake, she would share the blame with me when facing collaborators. Conversely, when I did something good, she would go out of her way to give me credit. This gave me the freedom to experiment and make mistakes, which paid off dramatically.  
 
