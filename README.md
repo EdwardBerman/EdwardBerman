@@ -22,8 +22,8 @@
 ## Publications and Scholarly Works 
 
 ### Publications
-Submitted to the Journal of Open Source Software
-+ (Edward Berman and Jacqueline McCleary) ShOpt.jl: A Julia Package for Empirical Point Spread Function Characterization of JWST NIRCam Data
+
++ (Edward Berman and Jacqueline McCleary) ShOpt.jl: A Julia Package for Empirical Point Spread Function Characterization of JWST NIRCam Data [https://arxiv.org/abs/2310.00071](https://arxiv.org/abs/2310.00071)
 
 
 ### Other Scholarly Works
