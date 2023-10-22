@@ -27,7 +27,7 @@
 + (Edward Berman and Jacqueline McCleary) ShOpt.jl: A Julia Package for Empirical Point Spread Function Characterization of JWST NIRCam Data [https://arxiv.org/abs/2310.00071](https://arxiv.org/abs/2310.00071)
 + (Shinn N et al.) Reflexion: Language Agents with Verbal Reinforcement Learning [https://arxiv.org/abs/2303.11366](https://arxiv.org/abs/2303.11366)
 
-### Other Scholarly Works [AEGIR](rascal-AEGIR.pdf)
+### Other Scholarly Works 
 + [Chemical Reaction Networks and Monotone Dynamical Systems](REU.pdf) | [Machine Learning Model Discovery](mlpde.pdf) | [AEGIR](rascal-AEGIR.pdf)
 
 ## On Going Research Projects
