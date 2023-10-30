@@ -28,7 +28,7 @@
 + (Shinn N et al.) Reflexion: Language Agents with Verbal Reinforcement Learning [https://arxiv.org/abs/2303.11366](https://arxiv.org/abs/2303.11366)
 
 ### Other Scholarly Works 
-+ [Chemical Reaction Networks and Monotone Dynamical Systems](REU.pdf) | [Machine Learning Model Discovery](mlpde.pdf) | [AEGIR](rascal-AEGIR.pdf)
+ [Chemical Reaction Networks and Monotone Dynamical Systems](REU.pdf) | [Machine Learning Model Discovery](mlpde.pdf) | [AEGIR](rascal-AEGIR.pdf)
 
 ## On Going Research Projects
 ### Problems pertaining to 
