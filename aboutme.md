@@ -8,8 +8,8 @@
 |👨<200d>🏫                           | 🏫                                 |    
 | [Skills](#skills)                  | [Contact Me](#contact-me)            |    
 |🕹                                 | 💌                                 |    
-| [Github Stats](#stats)              | [Blog](./blog.md){: .button-link }    
-|📊                                 | ✏️    
+|                                 | [Blog](./blog.md){: .button-link }    
+|                                 | ✏️    
 
 ## About Me    
 + Undergraduate Researcher at Northeastern University, McCleary's Group    

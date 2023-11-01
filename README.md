@@ -10,8 +10,8 @@
 |👨‍🏫                           | 🏫                                 |
 | [Skills](#skills)                  | [Contact Me](#contact-me)            |
 |🕹                                 | 💌                                 |
-| [Github Stats](#stats)              | [Blog](./blog.md){: .button-link }
-|📊                                 | ✏️
+|                                 | [Blog](./blog.md){: .button-link }
+|                                 | ✏️
 
 
 ## About Me
@@ -81,7 +81,4 @@ Reach me at berman.ed@northeastern.edu
 
 <a href="https://www.linkedin.com/in/edward-berman-324a86226/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 
-## Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdwardBerman&theme=highcontrast)](https://git.io/streak-stats)
 
