@@ -18,7 +18,7 @@
 + Undergraduate Researcher at Northeastern University, McCleary's Group
 + Lensing Working Group at COSMOS-Web: The JWST Cosmic Origins Survey
 + AI and Programming Languages at GammaTauAI
-+ Double Major in Mathematics and Applied Physics, Music Technology Minor
++ Double Major in Mathematics and Applied Physics
 
 ## Publications and Scholarly Works 
 
