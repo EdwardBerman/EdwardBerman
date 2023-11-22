@@ -10,8 +10,6 @@
 |👨‍🏫                           | 🏫                                 |
 | [Skills](#skills)                  | [Contact Me](#contact-me)            |
 |🕹                                 | 💌                                 |
-|                                 | [Blog](./blog.md){: .button-link }
-|                                 | ✏️
 
 
 ## About Me
