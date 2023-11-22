@@ -55,10 +55,10 @@
 
 | Mathematics                           | Physics                                            |
 |---------------------------------------|----------------------------------------------------|
-| \* Riemannian Optimization            | Thermodynamics and Statistical Mechanics           |
-| Advanced Linear Algebra               | Mathematical and Computational Methods for Physics |
+| \* Riemannian Optimization            | \* General Relativity and Cosmology                |
+| Advanced Linear Algebra               | Thermodynamics and Statistical Mechanics           |
 | Advanced Probability and Statistics   | Electricity and Magnetism 1                        |
-| Fourier Series and PDEs               | Modern Physics                                     |
+| Advanced Group Theory                 | Quantum Mechanics                                  |
 
 ## Skills
 [![Julia](https://img.shields.io/badge/julia-black?style=for-the-badge&logo=julia)](https://github.com/EdwardBerman)
