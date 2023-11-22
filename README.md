@@ -36,6 +36,7 @@
 
 ### More Specifically
 +  Point Spread Function Modeling with ShOpt.jl
++  Preparing for measuring LambdaCDM parameters in the COSMOS Field
 +  Thinking of next steps after the recent [Top-Down Synthesis for Library Learning](https://arxiv.org/pdf/2211.16605.pdf) paper
 
 ## Awards and Funding
