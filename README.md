@@ -1,1 +1,1 @@
-[Personal Website](https://edwardberman.github.io/its-nuts/)
+[Personal Website](https://edwardberman.github.io/personal-website/)
